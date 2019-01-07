@@ -17,15 +17,6 @@ This is my bookmark collection.
 
 
 
-
-
-
-
-
-
-
-
-
 <!-- Tool -->
 [url-tool-css-gradient-generator]:http://www.colorzilla.com/gradient-editor/
 [url-tool-tinypng]:https://tinypng.com/
