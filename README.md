@@ -4,7 +4,7 @@ This is my bookmark collection.
 ## Official Website
 - [W3C][url-site-w3c]
 - [W3C Github][url-site-w3c-github]
-- [ECMA][url-site-w3c]
+- [ECMA][url-site-ecma]
 - [Ecma TC39 Github][url-site-tc39-github]
 
 ## Tool
