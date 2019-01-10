@@ -6,7 +6,6 @@ This is my bookmark collection.
 - [W3C Github][url-site-w3c-github]
 - [ECMA][url-site-ecma]
 - [Ecma TC39 Github][url-site-tc39-github]
-- [Ecma TC39 Github][url-site-tc39-github]
 - [ECMAScript Discussion Archives][url-site-ecmascript-discussion]-JavaScript 规范讨论及会议记录
 - [Cascading Style Sheets][url-site-css]-针对 CSS 标准的网站
 - [Abbreviations][url-site-abbreviations]-首字母缩写搜索
