@@ -3,6 +3,7 @@ This is my bookmark collection.
 
 ## Website
 - [W3C][url-site-w3c]
+- [W3C All Standards and Drafts][url-site-w3c-search]
 - [W3C Github][url-site-w3c-github]
 - [ECMA][url-site-ecma]
 - [Ecma TC39 Github][url-site-tc39-github]
@@ -21,6 +22,7 @@ This is my bookmark collection.
 ## Docs
 - [Standard ECMA-262][url-docs-ecma-262]
 - [npm help docs][url-docs-npm]
+- [Chrome Devtools][url-docs-chrome-devtools]
 
 ## Dome
 - [Animate.css][url-demo-animate]
@@ -33,6 +35,7 @@ This is my bookmark collection.
 
 <!-- Official Website -->
 [url-site-w3c]:https://www.w3.org/
+[url-site-w3c-search]:https://www.w3.org/TR/
 [url-site-w3c-github]:https://github.com/w3c
 [url-site-ecma]:https://www.ecma-international.org/default.htm
 [url-site-tc39-github]:https://github.com/tc39
@@ -51,6 +54,7 @@ This is my bookmark collection.
 <!-- Docs -->
 [url-docs-ecma-262]:https://www.ecma-international.org/publications/standards/Ecma-262.htm
 [url-docs-npm]:https://docs.npmjs.com/
+[url-docs-chrome-devtools]:https://developers.google.com/web/tools/chrome-devtools/
 
 <!-- Dome -->
 [url-demo-animate]:https://daneden.github.io/animate.css/
