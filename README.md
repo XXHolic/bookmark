@@ -19,6 +19,7 @@ This is my bookmark collection.
 - [Can I use][url-tool-caniuse]-查询标准现状
 - [CSS3 动画帧数计算器][url-tool-css3-keyframes-calculator]
 - [ePUBee][url-tool-epubee]-在线电子书转换
+- [FeHelper][url-tool-fehelper]-Chrome 扩展插件
 
 ## Docs
 - [Standard ECMA-262][url-docs-ecma-262]
@@ -52,6 +53,7 @@ This is my bookmark collection.
 [url-tool-caniuse]:https://caniuse.com/
 [url-tool-css3-keyframes-calculator]:http://tid.tenpay.com/labs/css3_keyframes_calculator.html
 [url-tool-epubee]:http://cn.epubee.com/
+[url-tool-fehelper]:https://www.baidufe.com/fehelper/feedback.html
 
 <!-- Docs -->
 [url-docs-ecma-262]:https://www.ecma-international.org/publications/standards/Ecma-262.htm
