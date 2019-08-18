@@ -31,7 +31,7 @@ This is my bookmark collection.
 - [npm help docs][url-docs-npm]
 - [Chrome Devtools][url-docs-chrome-devtools]
 
-## Dome
+## Demo
 - [Animate.css][url-demo-animate]
 - [The Shapes of CSS][url-demo-shapes-css]
 
