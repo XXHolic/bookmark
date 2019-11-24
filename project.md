@@ -3,7 +3,7 @@
 - [hemera][url-github-hemera] : 从零开始搭建的项目，Webpack、React、Redux、ES6
 - [yucca][url-github-yucca] : 基于 Axios 的请求封装
 - [cronus][url-github-cronus] : 基于 DVA 官方的文档尝试运行的项目
-- [purplevine][url-github-purplevine] : 尝试使用 node 做后台开发，数据库是 mysql
+- [purplevine][url-github-purplevine] : 尝试使用 node 做后台开发，数据库是 mysql，主要错误监控
 - [cross-origin][url-github-cross-origin] : 测试跨域的请求
 - [spark][url-github-spark] : 记录一些个人感觉有意思的东西
 - [tethys][url-github-tethys] : 思维导图
