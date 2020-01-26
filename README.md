@@ -30,6 +30,7 @@ This is my bookmark collection.
 - [Standard ECMA-262][url-docs-ecma-262]
 - [npm help docs][url-docs-npm]
 - [Chrome Devtools][url-docs-chrome-devtools]
+- [Human Interface Guidelines][url-docs-apple-human-interface-guidelines]
 
 ## Demo
 - [Animate.css][url-demo-animate]
@@ -70,6 +71,7 @@ This is my bookmark collection.
 [url-docs-ecma-262]:https://www.ecma-international.org/publications/standards/Ecma-262.htm
 [url-docs-npm]:https://docs.npmjs.com/
 [url-docs-chrome-devtools]:https://developers.google.com/web/tools/chrome-devtools/
+[url-docs-apple-human-interface-guidelines]:https://developer.apple.com/design/human-interface-guidelines/
 
 <!-- Dome -->
 [url-demo-animate]:https://daneden.github.io/animate.css/
