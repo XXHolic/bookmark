@@ -38,6 +38,14 @@ This is my bookmark collection.
 - [Animate.css][url-demo-animate]
 - [The Shapes of CSS][url-demo-shapes-css]
 
+## Search
+- [BT1207][url-search-1]
+- [SkrBT][url-search-2]
+- [AIO Search][url-search-3]
+- [百度网盘搜索-如风搜][url-search-4]
+- [百度网盘搜索-小不点搜索][url-search-5]
+- [百度网盘搜索-小白盘][url-search-6]
+- [百度网盘搜索-大力盘搜索][url-search-7]
 
 
 
@@ -80,3 +88,13 @@ This is my bookmark collection.
 <!-- Dome -->
 [url-demo-animate]:https://daneden.github.io/animate.css/
 [url-demo-shapes-css]:https://css-tricks.com/the-shapes-of-css/
+
+<!-- Search -->
+[url-search-1]:https://bt120712.icu
+[url-search-2]:https://skrbt22.icu
+[url-search-3]:https://www.aiosearch.com
+[url-search-4]:http://www.rufengso.net
+[url-search-5]:https://www.xiaoso.net
+[url-search-6]:https://www.xiaobaipan.com
+[url-search-7]:https://www.dalipan.com
+
