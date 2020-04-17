@@ -40,7 +40,6 @@ This is my bookmark collection.
 - [The Shapes of CSS][url-demo-shapes-css]
 
 ## Search
-- [BT1207][url-search-1]
 - [SkrBT][url-search-2]
 - [AIO Search][url-search-3]
 - [百度网盘搜索-如风搜][url-search-4]
