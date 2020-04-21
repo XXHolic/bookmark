@@ -30,6 +30,7 @@ This is my bookmark collection.
 - [Photopea][url-tool-photopea]-线上免费 PS
 - [IcoMoon][url-tool-icomoon]-线上预览字体图片
 - [Tor][url-tool-tor]-防网络跟踪分析的浏览器
+- [Snip & Paste][url-tool-snipaste]-截图贴图工具
 
 ## Docs
 - [Standard ECMA-262][url-docs-ecma-262]
@@ -82,6 +83,7 @@ This is my bookmark collection.
 [url-tool-photopea]:https://www.photopea.com
 [url-tool-icomoon]:https://icomoon.io/app/#/select
 [url-tool-tor]:https://www.torproject.org/
+[url-tool-snipaste]:https://www.snipaste.com/
 
 <!-- Docs -->
 [url-docs-ecma-262]:https://www.ecma-international.org/publications/standards/Ecma-262.htm
