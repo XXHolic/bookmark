@@ -104,5 +104,5 @@ This is my bookmark collection.
 [url-search-5]:https://www.xiaoso.net
 [url-search-6]:https://www.xiaobaipan.com
 [url-search-7]:https://www.dalipan.com
-[url-search-8]:https://www.no404.icu/#term-12
+[url-search-8]:https://www.404dh.icu/#term-12
 
