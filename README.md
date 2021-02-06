@@ -1,6 +1,11 @@
 # bookmark
 This is my bookmark collection.
 
+## Fun
+- [视觉错觉图片][url-site-website3]
+- [肌肉维基][url-site-website2]-人体各个部位肌肉并提供锻炼指导
+- [荷兰国家博物馆][url-site-website1]-可以免费下载高清名画
+
 ## Website
 - [W3C][url-site-w3c]
 - [W3C All Standards and Drafts][url-site-w3c-search]
@@ -45,15 +50,14 @@ This is my bookmark collection.
 
 ## Search
 - [AIO Search][url-search-3]
-- [百度网盘搜索-如风搜][url-search-4]
-- [百度网盘搜索-小不点搜索][url-search-5]
-- [百度网盘搜索-小白盘][url-search-6]
-- [百度网盘搜索-大力盘搜索][url-search-7]
 <!-- - [404 导航][url-search-8] -->
 
 
 
-
+<!-- Fun -->
+[url-site-website3]:http://www.ritsumei.ac.jp/~akitaoka/index-e.html
+[url-site-website2]:https://musclewiki.com/
+[url-site-website1]:https://www.rijksmuseum.nl/en/rijksstudio
 
 <!-- Official Website -->
 [url-site-w3c]:https://www.w3.org/
