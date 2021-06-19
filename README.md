@@ -1,6 +1,13 @@
 # bookmark
 This is my bookmark collection.
 
+## Search
+- [吃力网][url-search-1]
+- [磁星][url-search-2]
+- [AIO Search][url-search-3]
+- [磁力天堂][url-search-4]
+- [openbt][url-search-5]
+
 ## Fun
 - [故宫博物院藏品总目][url-site-website4]
 - [视觉错觉图片][url-site-website3]
@@ -49,9 +56,7 @@ This is my bookmark collection.
 - [Animate.css][url-demo-animate]
 - [The Shapes of CSS][url-demo-shapes-css]
 
-## Search
-- [AIO Search][url-search-3]
-<!-- - [404 导航][url-search-8] -->
+
 
 
 
@@ -105,12 +110,10 @@ This is my bookmark collection.
 [url-demo-shapes-css]:https://css-tricks.com/the-shapes-of-css/
 
 <!-- Search -->
-[url-search-1]:https://bt120712.icu
-[url-search-2]:https://skrbt22.icu
+[url-search-1]:https://www.sokankan97.xyz/
+[url-search-2]:https://cixing.org/
 [url-search-3]:https://www.aiosearch.com
-[url-search-4]:http://www.rufengso.net
-[url-search-5]:https://www.xiaoso.net
-[url-search-6]:https://www.xiaobaipan.com
-[url-search-7]:https://www.dalipan.com
-[url-search-8]:https://www.404dh.icu/#term-12
+[url-search-4]:https://www.cilitiantang2030.xyz/
+[url-search-5]:https://openbt.net/
+
 
