@@ -1,14 +1,9 @@
 # bookmark
 This is my bookmark collection.
 
-## Search
-- [吃力网][url-search-1]
-- [磁星][url-search-2]
-- [AIO Search][url-search-3]
-- [磁力天堂][url-search-4]
-- [openbt][url-search-5]
-
 ## Fun
+- [年度鸟类摄影大赛][url-site-website6]
+- [显微摄影][url-site-website5]
 - [故宫博物院藏品总目][url-site-website4]
 - [视觉错觉图片][url-site-website3]
 - [肌肉维基][url-site-website2]-人体各个部位肌肉并提供锻炼指导
@@ -61,6 +56,8 @@ This is my bookmark collection.
 
 
 <!-- Fun -->
+[url-site-website6]:https://www.birdpoty.com/bird-photographer-of-the-year-photography-competition
+[url-site-website5]:https://www.nikonsmallworld.com/
 [url-site-website4]:https://zm-digicol.dpm.org.cn
 [url-site-website3]:http://www.ritsumei.ac.jp/~akitaoka/index-e.html
 [url-site-website2]:https://musclewiki.com/
